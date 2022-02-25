@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief discovery of the cause for which this land mourns, and is afflicted with several remedies to be applyed in order to the removal of the present visitation, given forth the 2d of the 6th month called August, 1665, being the last general fast day, appointed to pray for preventing the spreading, and increase of the infection of the plague / by a servant of the Lord, Thomas Salthouse.</title>
+            <author>Salthouse, Thomas, 1630-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60920</idno>
+            <idno type="STC">Wing S470</idno>
+            <idno type="STC">ESTC R2351</idno>
+            <idno type="EEBO-CITATION">12265979</idno>
+            <idno type="OCLC">ocm 12265979</idno>
+            <idno type="VID">58073</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60920)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58073)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 821:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief discovery of the cause for which this land mourns, and is afflicted with several remedies to be applyed in order to the removal of the present visitation, given forth the 2d of the 6th month called August, 1665, being the last general fast day, appointed to pray for preventing the spreading, and increase of the infection of the plague / by a servant of the Lord, Thomas Salthouse.</title>
+                  <author>Salthouse, Thomas, 1630-1691.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Plague --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58073:1"/>
+            <pb facs="tcp:58073:1" rendition="simple:additions"/>
+            <p>A Brief DISCOVERY OF THE <hi>Cauſe</hi> for which this LAND Mourns, and is AFFLICTED.</p>
+            <p>With Several REMEDIES TO BE Applyed in ORDER to the Removal Of the Preſent VISITATION.</p>
+            <p>Given forth the 2d of the 6th Month called <hi>Auguſt,</hi> 1665. being the laſt General FAST Day, appointed to PRAY for Preventing the Spreading, and Increaſe of the INFECTION of the PLAGUE.</p>
+            <p>By a Servant of the Lord, <hi>Thomas Salthouſe.</hi>
+            </p>
+            <p>Printed in the Year, 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="2" facs="tcp:58073:2" rendition="simple:additions"/>
+            <head>A brief diſcovery of the cauſe for which this Land mourns, and is afflicted. With ſeveral Remedies to be applyed in order to the removal of the preſent Viſitation.</head>
+            <p>OH! <hi>ENGLAND</hi> renouned among the Records of an<g ref="char:EOLhyphen"/>tient daies, beautiful for <hi>Situation,</hi> and famous among the <hi>Nations,</hi> a Land flowing with <hi>Milk</hi> and <hi>Honey;</hi> an <hi>Iſland</hi> in which the Light of the Glorious Goſpel hath ſhined, and upon which the Lord hath lifted up the light of his Counte<g ref="char:EOLhyphen"/>nance in theſe latter dayes. The day of thy Viſitation is come ac<g ref="char:EOLhyphen"/>cording to Gods determination declared, by his faithful ſervants the Prophets, who hath been eſteemed in thee as earthen Pitchers, and perſecuted from <hi>City</hi> to <hi>City,</hi> and who have been ſet as ſignes and wonders in the Land of their Nativity, for giving thee good counſel, and ſhewing thee the path of Life, and the way of Holi<g ref="char:EOLhyphen"/>neſs, in which thou haſt refuſed to walk, and now is the hand of the Lord lifted up to correct and chaſtiſe thy Inhabitants, <hi>for their en<g ref="char:EOLhyphen"/>vy againſt the innocent, and their oppreſſing of the poor and needy, and the Lord is turning a fruitful Land into barrenneſs, and your mirth into mourning, for your iniquities and tranſgreſſions which hath provoked him dayes without number.</hi>
+            </p>
+            <p>Oh! therefore lift up your eyes and look unto him whom you have pierced, and let every Family mourn apart, and let every particular perſon be humbled for his own tranſgreſſion. Let the wicked forſake his evil wayes, and the unrighteous man his vain thoughts, and turn to the Lord for he is gracious, and to our God for he will abundantly pardon. Waſh you and make you clean, put away the evil of your doings; ceaſe to do evil, learn to do well; ſeek judgment, relieve the oppreſſed, judge the fatherleſs, and plead for the Widow; let all the oppreſſors and perſecutors of Gods people be aſhamed, becauſe of their envy againſt the innocent, now when the hand of the Lord is lifted up, and when he hath un<g ref="char:EOLhyphen"/>dertaken
+<pb n="3" facs="tcp:58073:2"/>to plead, with equity, for the meek of the Earth that have long mourned in deſolation.</p>
+            <p>For this I am moved of the Lord to give forth in the day of your faſt, that it may be read in the fear of the Lord, with the Spirit and underſtanding, and I declare unto you, that <hi>
+                  <hi>Perſecution</hi> is the cry<g ref="char:EOLhyphen"/>ing ſin for which the Land mourns;</hi> and in the great <hi>City</hi> where <hi>Per<g ref="char:EOLhyphen"/>ſecution</hi> and <hi>Baniſhment</hi> for worſhipping God did begin, and where judgment was firſt turned backward, and equity perverted, hath the Lord begun to execute his Righteous Judgment, and the cry of the Lords Priſoners, together with the ſupplication of the righ<g ref="char:EOLhyphen"/>teous Souls that lieth under the Altar, hath entred into the eares of the Almighty, who hath taken cogniſence of their cauſe, and will with equity plead it on their behalf, and <hi>every tongue that riſeth up in judgment againſt them ſhall be condemned, and all that gather to<g ref="char:EOLhyphen"/>gether againſt the Lord and his choſen people, ſhall be broken to pieces, like a Potters veſſel;</hi> for this is the portion and heritage of the Lords ſervants, (who are eſtabliſhed in Righteouſneſs) <hi>no weapon formed can proſper, nor no inchantment can prevail, againſt Gods peculiar treaſure.</hi>
+            </p>
+            <p>Wherefore now in the day of your faſting and praying unto which you are injoyned by <hi>authority,</hi> be not like unto the <hi>Phariſees</hi> and <hi>Hypocrites</hi> of old, who faſted often, and did all their works to be ſeen of men; you that profeſs Chriſtianity ſhould not faſt as they did, by afflicting your bodies, and bowing down your heads in out<g ref="char:EOLhyphen"/>ward appearance for a day, by drawing near to the Lord with your mouths, and lifting up your voyces on high; <hi>for verily except your Righteouſneſs exceed the righteouſneſs</hi> of the ſtricteſt ſect <hi>of the Scribes and Phariſees you cannot enter into the Kingdom of Heaven;</hi> neither will the Lord accept an offering at your hands, whilſt you are <hi>buil<g ref="char:EOLhyphen"/>ding up Sion with blood, and Jeruſalem with iniquity;</hi> and whilſt you are exerciſed in oppreſſing the poor and needy. For this is the faſt that the Lord hath choſen, and which he now requires of you, who have injoyned others to abſtain from their ordinary food, <hi>that you faſt from ſin, envy, oppreſſion and perſecution, that you loſe the bands of wickedneſs, undo the heavy burthens, and ſet the oppreſſed free, that you deal your bread to the hungry, that you viſit the fatherleſs and widows, and bring forth the Lords Priſoners out of the Priſon houſes, from among tranſgreſsors and malefactors,</hi> where they lye languiſhing in <hi>naſty holes, diſmal dens,</hi> and <hi>contagious cottages,</hi> unto which they are confined <hi>for
+<pb n="4" facs="tcp:58073:3" rendition="simple:additions"/>good conſcience ſake,</hi> and <hi>for worſhipping God in the Spirit,</hi> whilſt <hi>the proud are accompted happy, and they that do wickedly are at liberty,</hi> living in pleaſures upon the earth.</p>
+            <p>Oh! therefore you that now bear rule amongſt men, take coun<g ref="char:EOLhyphen"/>cel at the antient of daies, and remember what the Rock of <hi>Iſrael</hi> hath ſaid, <hi>do juſtly, love mercy, and walk humbly with the Lord,</hi> rule in love and in the fear of God, <hi>that your light may ſhine as a morning without Clouds;</hi> and that you may be as <hi>the tender graſs ſpringing up out of the earth by clear ſhining after the rain, then will your health ſpring up ſpeedily;</hi> and the Lord will make you <hi>as a water'd Garden,</hi> and as <hi>a ſpring of waters, whoſe waters doth not faile;</hi> for upon them that <hi>fears the Lord, and thinks on his name, and tremble at the words of his holineſs, will the ſun of righteouſneſs ariſe with healing in his Wings.</hi>
+            </p>
+            <p>Ceaſe ſmiting with the fiſt of wickedneſs, and if you expect an anſwer of your Prayers and faſting, which you pretend is for re<g ref="char:EOLhyphen"/>moving this <hi>dreadful Viſitation,</hi> and to prevent the ſpreading and increaſe of the infection now begun in your <hi>Metropolitant City,</hi> where you firſt began to <hi>perſecute, impriſon,</hi> and <hi>tranſport</hi> the people of God out of the Land of their Nativity, for their Religion and Righteouſneſs ſake: Oh then remove thoſe grievous yoaks of bondage which is unjuſtly laid upon that innocent people, who are perſecuted and impriſoned, under the reproachful denomination of <hi>Quakers,</hi> and let a general <hi>Goal delivery be proclaim'd,</hi> (as well as a publique faſt) and let the Priſon doors be ſet open to all who are in bonds for worſhipping God in the ſpirit, and for their obedience to the commands of Chriſt Jeſus, and for their Non-conformity to the cuſtoms and traditions of men which doth not make the comers thereunto perfect, as pertaining to the conſcience, and do not ſell the Saints and ſervants of the moſt high, <hi>as bondmen</hi> and <hi>bondwomen,</hi> for their obedience to the Lord, and keeping their conſciences void of offence, both towards God and man.</p>
+            <p>Is this a time to <hi>baniſh</hi> the Husband from his Wife, and Children from their affectionate Fathers and Mothers, to make Women as Widdows, Children Fatherleſs, and tender hearted Fathers and Mothers Childleſs, for meeting together in the name of the Lord, to the number of five or more to pray to God <hi>for all Men, for Kings, and all that are in Authority, That under them the Saints may live a godly and peaceable life,</hi> and to pray for the removing of this
+<pb n="5" facs="tcp:58073:3" rendition="simple:additions"/>
+               <hi>dreadful Viſitation.</hi> Is this a time to <hi>tranſport</hi> them for this Cauſe out of your Coaſts, when you know not how ſoon the Lord in his juſtice may make <hi>your Wifes Widdows,</hi> you <hi>Childleſs,</hi> or <hi>your Chil<g ref="char:EOLhyphen"/>dren Fatherleſs,</hi> and reduce you to the number of five or under in your high places appointed for publick worſhip; do you not pre<g ref="char:EOLhyphen"/>tend to uſe meanes, and give forth Directions to prevent the ſpread<g ref="char:EOLhyphen"/>ing of this great <hi>Contagion,</hi> and is not this the way to ſpread and increaſe <hi>Sickneſs</hi> and <hi>Infectious Diſtempers,</hi> and <hi>incurable Diſeaſes,</hi> when People are thruſt together in great numbers in <hi>Goals</hi> and in <hi>ſtinking Priſon-houſes,</hi> in the <hi>cold of Winter,</hi> and <hi>heat of Summer,</hi> where they are deprived of the benefit of open aire, and other competent accommodation for their refreſhment, and the preſerva<g ref="char:EOLhyphen"/>tion of their health in ſuch a ſeaſon as this? Is this doing unto o<g ref="char:EOLhyphen"/>thers as you would they ſhould do unto you, do you not deſire the Lord to <hi>forgive your treſpaſſes, as you forgive them that treſpaſs a<g ref="char:EOLhyphen"/>gainſt you?</hi> what tranſgreſſion hath the innocent People of God called <hi>Quakers</hi> committed, that you puniſh them ſo ſeverely, or what is their <hi>treſpaſs againſt you?</hi> would you have the Lord do un<g ref="char:EOLhyphen"/>to you, as you have dealt with them that never did you hurt in thought, word nor action, nor never deſigned evil againſt the pre<g ref="char:EOLhyphen"/>ſent Government? How long ſhall the Spirit of the Lord ſtrive with you? the patience and long-ſuffering of the Almighty hath been exerciſed, as in the Dayes of <hi>Noah,</hi> when <hi>all Fleſh had corrupted his way upon the Earth,</hi> when <hi>the thoughts and imaginations of Mens hearts was evil, onely evil,</hi> and that <hi>continually,</hi> and he hath been provoked with this Generation as in the dayes of <hi>Lot,</hi> for <hi>pride, fulneſs of bread, wantonneſs, and abundance of idleneſs</hi> hath been acted and practiſed of late dayes, in this Nation, and <hi>becauſe of ſwearing this Land mourneth:</hi> And the People of God <hi>that trembles at his word, and cannot ſwear at all,</hi> are <hi>trampled</hi> upon, <hi>perſecuted, fined</hi> and <hi>im<g ref="char:EOLhyphen"/>priſoned,</hi> and <hi>accounted as Men not fit to live upon the Earth,</hi> nor to have <hi>a habitation in the Land of their Nativity.</hi> Oh! that the Heads and Rulers of this antient Nation would conſider the Cauſe of this common <hi>Calamity,</hi> which is come upon the Inhabitants of the chief <hi>City,</hi> and other places of the Land, and that inſtead of <hi>perſe<g ref="char:EOLhyphen"/>cuting</hi> and <hi>impriſoning</hi> People of <hi>tender Conſciences,</hi> they would pu<g ref="char:EOLhyphen"/>niſh <hi>Prophaneſs,</hi> &amp; lay the Law upon the <hi>unrighteous,</hi> and that all Peo<g ref="char:EOLhyphen"/>ple who are now called to Faſting and Praying, did know the things that belongs to their peace before <hi>their houſes be left deſolate,</hi> for the
+<pb n="6" facs="tcp:58073:4" rendition="simple:additions"/>Lord who delights in mercy, and in the exerciſe of loving kinde<g ref="char:EOLhyphen"/>neſs doth yet waite to be Gracious, and is willing to gather you, as a Hen gathereth her Chickens under her wings, and to heale your backſlidings, if you will return unto him, and this Generation hath had as ſufficient warning, as <hi>Jeruſalem</hi> had before her deſtruction and deſolation, and more <hi>meſſengers,</hi> hath the Lord ſent forth a<g ref="char:EOLhyphen"/>mongſt them, then was ſent unto <hi>Sodom</hi> or <hi>Ninevy,</hi> to call them to repentance; <hi>Therefore ſhall the Men of Ninevy riſe up in judgement with this Generation, and ſhall be a witneſs againſt it,</hi> becauſe they re<g ref="char:EOLhyphen"/>pented at the Preaching of <hi>Jonas,</hi> and behold a greater then <hi>Jonas</hi> is here, and if the <hi>mighty works,</hi> and <hi>ſound Declarations</hi> had been done and declared in <hi>Sodom</hi> and <hi>Gomorah</hi> that hath been declared in <hi>England,</hi> they would have repented in Sac<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cloth and Aſhes, for the Lord hath ſent forth his faithfull Servants and Hand-maids, to Preach repentance in the dominion and demonſtration of the Spi<g ref="char:EOLhyphen"/>rit of Life, in the <hi>Streets</hi> and <hi>Publike Places,</hi> of the <hi>Chiefe Citties, Towns</hi> and <hi>Villages</hi> of this <hi>Nation;</hi> So that the Inhabitants thereof cannot <hi>plead ignorance,</hi> nor ſay they are ſurpriſed at unawars, or that the day of their <hi>viſitation</hi> is come as a thiefe in the night, for the Lord hath made known his <hi>Power and Coming,</hi> and it hath been declared by <hi>Divine Authority,</hi> and confirmed by <hi>verbal Teſtimony</hi> out of the mouths of many <hi>faithfull witneſſes,</hi> and there hath been <hi>Precept</hi> upon <hi>Precept,</hi> and <hi>Line</hi> upon <hi>Line, Here a Little,</hi> and <hi>there a little,</hi> in <hi>word wrighting</hi> and <hi>in Print,</hi> publiſhed in plaineneſs of ſpeech, in your own Language, in the ears, and unto the view of the whole Nation, that you might make preparation <hi>to meet the Lord, by ſpeedy repentance,</hi> before <hi>he ſpeak unto you in his wrath, and vex you in his ſore diſpleaſure;</hi> but you have <hi>mocked Gods meſſengers,</hi> and <hi>perſecuted</hi> his <hi>Servants</hi> and <hi>handmaids,</hi> and ſeized upon their <hi>Papers</hi> and <hi>Printed Books,</hi> put forth and publiſhed in love to your Souls, to inform you of this <hi>Viſitation</hi> which is come, and of the <hi>deſolation</hi> which is coming; and you muſt confeſs and acknowledge that the Lord is juſt in giving warning before he gives correction. And that Prophets and wiſe men have been ſent unto you, though otherwiſe eſteemed by you, and ſhamefully intreated among you, yet their teſtimony liveth, and remains upon record in the role of a Book, where he that runs may read it, and it ſhall ſtand as a witneſs for God againſt all <hi>perſecutors</hi> and their <hi>cruel practiſes,</hi> and <hi>unchriſtian like actions,</hi> when ſome of thoſe whom you <hi>baniſh</hi> for their <hi>Religion</hi>
+               <pb n="7" facs="tcp:58073:4" rendition="simple:additions"/>and <hi>Righteouſneſs</hi> are <hi>Preaching the everlaſting Goſpel</hi> in the <hi>Power</hi> and <hi>Demonſtration</hi> of the <hi>Spirit,</hi> unto the <hi>Indians</hi> and <hi>Infidels in the Iſles a far off,</hi> unto which you <hi>baniſh</hi> them out of their owne Land, for worſhipping God in the Spirit and in the truth, and for the Teſti<g ref="char:EOLhyphen"/>mony of Jeſus and the word of God.</p>
+            <p>Mine eye affects my heart to ſee the <hi>diſtreſs, deſolation</hi> and <hi>calamity,</hi> that commeth like a thunder out of heaven upon the inhabitants of the Land of my Nativity; how haſt thou provoked <hi>a patient and long ſuffering God</hi> who hath watched over thee for good, and hath given thee the raine in it's ſeaſon, the former and the latter, and hath bleſſed thee with many ſpiritual bleſſings in heavenly things, and hath ſo loved thee, that he ſaith; <hi>How ſhall I give thee up, Oh Eng<g ref="char:EOLhyphen"/>land? How ſhall I make thee as Admah? How ſhall I ſet thee as Zeboim.</hi>
+            </p>
+            <p>
+               <hi>How ſhall I puniſh thee as Sodom, and afflict thee like the inhabitants of Gomorrah:</hi> who under pretence of Authority derived from the higher Power and holy Church (ſo called) and by the Laws <hi>Eccle<g ref="char:EOLhyphen"/>ſiaſtical</hi> and <hi>Civil,</hi> haſt <hi>perſecuted, impriſoned</hi> and <hi>impoſed penalties,</hi> and <hi>corporall puniſhment upon my people, the ſheep of my Paſture; the Lot of mine inheritance, whoſe righteous Soules have been vexed with the Sins and Tranſgreſſions, and evil Converſations of this Generation. The pre<g ref="char:EOLhyphen"/>cious Sons and Daughters of Sion comparable to fine Gould, how have they been eſteemed in England as Earthen pitchers? The inhabitants of the dark places of the earth are become cruel, like the</hi> Oyſtridges <hi>in the Wilderneſs. My Servants and Hand-maides</hi> ſaith the Lord, <hi>have you given as a ſacrifice to fooles, and as a pray to the rude multitude, to be reproached for the Name of Chriſt in their own Land, and to be ſold as Slaves, Vaſſels and Captives among the Heathen, in the Iſles a far off.</hi>
+            </p>
+            <p>Oh! <hi>England,</hi> thy leaders have cauſed thee to err, and thoſe that undertakes to inſtruct thee, hath a high hand in this treſpaſs of <hi>tranſporting</hi> an innocent <hi>people into a ſtrange Land,</hi> whom they cannot <hi>convince of evil,</hi> nor <hi>legally convict</hi> as <hi>tranſgreſſors of any Law,</hi> either <hi>Spiritual</hi> or <hi>Temporall:</hi> Be awakned therefore unto Righ<g ref="char:EOLhyphen"/>teouſneſs and meet the Lord by ſpeedy Repentance. <hi>Kiſs the Son leaſt he be angry, if once his wrath be kindled but a little; bleſſed are all they that puts their truſt in him;</hi> and let the people of all perſwa<g ref="char:EOLhyphen"/>ſions have liberty in a peaceable way, at all times and in all places to meet together in the name of the Lord, to lift up <hi>holy hands un<g ref="char:EOLhyphen"/>to</hi> Him, and to <hi>pray without ceaſing;</hi> it may be the Lord will yet be
+<pb n="8" facs="tcp:58073:5" rendition="simple:additions"/>intreated, to command the <hi>deſtroying Angel</hi> to ſtay his hand, and to remove this <hi>dreadful Viſitation,</hi> which as a juſt puniſhment is in<g ref="char:EOLhyphen"/>flicted upon the Nation for the <hi>lond crying ſin of <hi>cruel</hi>
+               </hi> and <hi>inhumane Perſecution.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Barking</hi> in <hi>Eſſex</hi> 
+                  <date>
+                     <hi>the</hi> 2d. <hi>of the</hi> 6th <hi>Mon.</hi> 1665.</date>
+               </dateline>
+
+               <signed>T. S.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>This was given forth on the publique Faſt day appointed for preventing the ſpreading of the</hi> Plague <hi>by a mourner in Sion under reſtraint, for worſhip<g ref="char:EOLhyphen"/>ing God in the Spirit, who is a friend &amp; wiſheth health both to the Soules and bodies of all people upon the earth.</hi>
+               </p>
+            </postscript>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:58073:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
